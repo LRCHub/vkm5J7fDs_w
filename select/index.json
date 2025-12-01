@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Sunset View",
+  "base_artist": "YELLASOMA",
+  "createdAt": "2025-12-01T14:22:04.446196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunset View",
+      "artist": "Ink Orea",
+      "has_synced": true,
+      "path": "select/01_Sunset_View_Ink_Orea.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sunset view",
+      "artist": "MAY-DOG",
+      "has_synced": false,
+      "path": "select/pl_01_sunset_view_MAY-DOG.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sunset View (feat. YOUNG GAGA GG DIOR)",
+      "artist": "MAY-DOG",
+      "has_synced": false,
+      "path": "select/pl_02_Sunset_View_(feat._YOUNG_GAGA_GG_DIOR)_MAY-DOG.txt"
+    }
+  ]
+}
